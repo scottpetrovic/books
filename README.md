@@ -3,6 +3,8 @@
 This started when I was trying to find an epub version of the book "The book of shaders". 
 https://thebookofshaders.com/
 
+This repo contains an epub and a pdf version of the content for reading in devices like Kindle Paperwhite
+
 There is a process to convert it to a printable version, but many people said it didn't work right. 
 
 What I did to create the epub,
